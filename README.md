@@ -54,9 +54,9 @@
             $$A = P(1 + \frac{r}{n})^{nt}$$
             <p>Where</p>
             <ul>
-                <li>$$P =$$ principal amount(initial investment)</li>
-                <li>$$r =$$ annual nominal interest rate (as a decimal)</li>
-                <li>$$n =$$ number of times the interest id compounded per year</li>
+                <li>$P =$ principal amount(initial investment)</li>
+                <li>$r =$ annual nominal interest rate (as a decimal)</li>
+                <li>$n =$ number of times the interest id compounded per year</li>
             </ul>
         </td>
     </tr>
