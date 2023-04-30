@@ -36,4 +36,15 @@
             <hr>
         </td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
+        <td>
+            <ul>
+                <li>Take the sentence: All work and no play makes Jack a dull boy. Store each word in a separate variable, then print out the sentence on one line using print.</li>
+                <li>Add parenthesis to the expression <strong>6 * 1 - 2</strong> to change its value from 4 to -6.</li>
+                <li>Start the Python interpreter and enter <strong>bruce + 4</strong> at the prompt. Report the error that it gives you. Could you justify the reason for the error message?</li>
+                <li>Assign a value to bruce so that <strong>bruce + 4</strong> evaluates to <strong>10</strong>.</li>
+            </ul>
+        </td>
+    </tr>
 </table>
