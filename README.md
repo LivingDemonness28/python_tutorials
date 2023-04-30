@@ -56,8 +56,10 @@
             <ul>
                 <li>$P =$ principal amount(initial investment)</li>
                 <li>$r =$ annual nominal interest rate (as a decimal)</li>
-                <li>$n =$ number of times the interest id compounded per year</li>
+                <li>$n =$ number of times the interest is compounded per year</li>
+                <li>$t =$ number of years</li>
             </ul>
+            <p>Write a Python program that assigns </p>
         </td>
     </tr>
 </table>
