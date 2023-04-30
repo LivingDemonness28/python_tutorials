@@ -16,7 +16,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/4-tutorial.ipynb">4-tutorial</a></h2></td>
         <td>
             <p>Assume that we execute the following assignment statements:</p>
             <br>
