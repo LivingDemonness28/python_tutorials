@@ -19,7 +19,7 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
         <td>
             <p>Assume that we execute the following assignment statements:</p>
-            <p><centre>Listing 1: Expressions</centre></p>
+            <p align="center">Listing 1: Expressions</p>
             <hr>
             <p>width = 17</p>
             <p>height = 12.0</p>
