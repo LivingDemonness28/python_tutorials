@@ -51,7 +51,13 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/5-tutorial.ipynb">5-tutorial</a></h2></td>
         <td>
             <p>The formula for computing the final amount if one is earning compound interest given on Wikipedia as</p>
-            $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
+            $$A = P(1 + \frac{r}{n})^{nt}$$
+            <p>Where</p>
+            <ul>
+                <li>$$P =$$ principal amount(initial investment)</li>
+                <li>$$r =$$ annual nominal interest rate (as a decimal)</li>
+                <li>$$n =$$ number of times the interest id compounded per year</li>
+            </ul>
         </td>
     </tr>
 </table>
