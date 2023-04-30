@@ -15,4 +15,16 @@
             <p>PS: We won’t worry about making sure our pay has exactly two digits after the decimal place for now. If you want, you can play with the built-in Python function to properly round the resulting pay to two decimal places</p>
         </td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
+        <td>
+            <p>Assume that we execute the following assignment statements:</p>
+            <p><centre>Listing 1: Expressions</centre></p>
+            <hr>
+            <p>width = 17</p>
+            <p>height = 12.0</p>
+            <hr>
+            <p>For each of the following expressions, write the value of the expression and the type (of the value of the expression).</p>
+        </td>
+    </tr>
 </table>
