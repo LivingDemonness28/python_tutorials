@@ -19,12 +19,14 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
         <td>
             <p>Assume that we execute the following assignment statements:</p>
+            <br>
             <p align="center">Listing 1: Expressions</p>
             <hr>
             <p>width = 17</p>
             <p>height = 12.0</p>
             <hr>
             <p>For each of the following expressions, write the value of the expression and the type (of the value of the expression).</p>
+            <br>
             <p align="center">Listing 2: Variable Creation</p>
             <hr>
             <p>width//2</p>
