@@ -25,6 +25,13 @@
             <p>height = 12.0</p>
             <hr>
             <p>For each of the following expressions, write the value of the expression and the type (of the value of the expression).</p>
+            <p align="center">Listing 2: Variable Creation</p>
+            <hr>
+            <p>width//2</p>
+            <p>width/2.0</p>
+            <p>height/3</p>
+            <p>1 + 2 * 5</p>
+            <hr>
         </td>
     </tr>
 </table>
