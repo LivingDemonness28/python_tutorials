@@ -16,7 +16,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/4-tutorial.ipynb">4-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
         <td>
             <p>Assume that we execute the following assignment statements:</p>
             <br>
@@ -37,7 +37,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/4-tutorial.ipynb">4-tutorial</a></h2></td>
         <td>
             <ul>
                 <li>Take the sentence: All work and no play makes Jack a dull boy. Store each word in a separate variable, then print out the sentence on one line using print.</li>
