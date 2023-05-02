@@ -75,4 +75,9 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/7-tutorial.ipynb">7-tutorial</a></h2></td>
         <td>Ask for two numbers. If the first one is larger than the second, display the second number first and then the first number, otherwise show the first number first and then the second.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/8-tutorial.ipynb">8-tutorial</a></h2></td>
+        <td>Ask the user to enter a number that is under 20. If they enter a number that is 20 or more, display the message "Too high", otherwise display 'Thank you".
+</td>
+    </tr>
 </table>
