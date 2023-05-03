@@ -77,7 +77,10 @@
     </tr>
     <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/8-tutorial.ipynb">8-tutorial</a></h2></td>
-        <td>Ask the user to enter a number that is under 20. If they enter a number that is 20 or more, display the message "Too high", otherwise display 'Thank you".
-</td>
+        <td>Ask the user to enter a number that is under 20. If they enter a number that is 20 or more, display the message "Too high", otherwise display 'Thank you".</td>
+    </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/9-tutorial.ipynb">9-tutorial</a></h2></td>
+        <td>Ask the user to enter a number between 10 and 20 (inclusive). If they enter a number within this range, display the message "Thank you". otherwise display the message "Incorrect answer".</td>
     </tr>
 </table>
