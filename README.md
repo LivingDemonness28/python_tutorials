@@ -91,4 +91,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/11-tutorial.ipynb">11-tutorial</a></h2></td>
         <td>Ask the user if it is raining and convert their answer to lower case so it doesn't matter what case they type it in. If they answer "yes", ask if it is windy. If they answer "yes" to this second question, display the answer "It is too windy for an umbrella", otherwise display the message "Take an umbrella". If they did not answer yes to the first question, display the answer "Enjoy your day".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/12-tutorial.ipynb">12-tutorial</a></h2></td>
+        <td>Ask the user's age. If they are 18 or over, display the message "You can vote", if they are aged 17, display the message "You can learn to drive", if they are 16, display the message "You can buy a lotttery ticket", if they are under 16, display the message "You can go Trick-or-Treating".</td>
+    </tr>
 </table>
