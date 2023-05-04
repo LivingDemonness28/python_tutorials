@@ -87,4 +87,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/10-tutorial.ipynb">10-tutorial</a></h2></td>
         <td>Ask the user to enter their favourite colour. If they enter "red", "RED" or "Red" display the message "I like red too", otherwise display the message "I don't like [colour], I prefer red."</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/11-tutorial.ipynb">11-tutorial</a></h2></td>
+        <td>Ask the user if it is raining and convert their answer to lower case so it doesn't matter what case they type it in. If they answer "yes", ask if it is windy. If they answer "yes" to this second question, display the answer "It is too windy for an umbrella", otherwise display the message "Take an umbrella". If they did not answer yes to the first question, display the answer "Enjoy your day".</td>
+    </tr>
 </table>
