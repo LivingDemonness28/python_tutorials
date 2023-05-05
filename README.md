@@ -123,4 +123,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/19-tutorial.ipynb">19-tutorial</a></h2></td>
         <td>Ask the user to enter a number between 1 and 12  and then display the times table for that number.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/20-tutorial.ipynb">20-tutorial</a></h2></td>
+        <td>Ask for a number below 50 and then count down from 50 to that number, making sure you show the number they entered in the output.</td>
+    </tr>
 </table>
