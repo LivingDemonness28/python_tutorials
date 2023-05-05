@@ -115,4 +115,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/17-tutorial.ipynb">17-tutorial</a></h2></td>
         <td>Ask the user to enter theirname and display each letter in their name on a seperate line</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/18-tutorial.ipynb">18-tutorial</a></h2></td>
+        <td>Alter tutorial 17 to also ask for a number. Display their name (one letter at a time on each line) and repeat this for the number of times they entered.Ask the user to enter theirname and display each letter in their name on a seperate line</td>
+    </tr>
 </table>
