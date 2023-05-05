@@ -103,4 +103,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/14-tutorial.ipynb">14-tutorial</a></h2></td>
         <td>Ask the user to enter 1, 2, 3.If they eneter a 1, display the message "Thank you", if they enter a 2, display "Well done", if they enter a 3, display "Correct" If they enter anything else, display "Error message".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/15-tutorial.ipynb">15-tutorial</a></h2></td>
+        <td>Ask the user to enter their name and then display their name three times.</td>
+    </tr>
 </table>
