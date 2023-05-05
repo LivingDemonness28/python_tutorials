@@ -99,4 +99,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/13-tutorial.ipynb">13-tutorial</a></h2></td>
         <td>Ask the user to enter a number. If it is under 10, display the message "Too low", if their number is between 10 and 20, display "Correct", otherwise display "Too high".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/14-tutorial.ipynb">14-tutorial</a></h2></td>
+        <td>Ask the user to enter 1, 2, 3.If they eneter a 1, display the message "Thank you", if they enter a 2, display "Well done", if they enter a 3, display "Correct" If they enter anything else, display "Error message".</td>
+    </tr>
 </table>
