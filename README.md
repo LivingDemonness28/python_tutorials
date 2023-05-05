@@ -95,4 +95,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/12-tutorial.ipynb">12-tutorial</a></h2></td>
         <td>Ask the user's age. If they are 18 or over, display the message "You can vote", if they are aged 17, display the message "You can learn to drive", if they are 16, display the message "You can buy a lotttery ticket", if they are under 16, display the message "You can go Trick-or-Treating".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/13-tutorial.ipynb">13-tutorial</a></h2></td>
+        <td>Ask the user to enter a number. If it is under 10, display the message "Too low", if their number is between 10 and 20, display "Correct", otherwise display "Too high".</td>
+    </tr>
 </table>
