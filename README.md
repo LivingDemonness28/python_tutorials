@@ -107,4 +107,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/15-tutorial.ipynb">15-tutorial</a></h2></td>
         <td>Ask the user to enter their name and then display their name three times.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/16-tutorial.ipynb">16-tutorial</a></h2></td>
+        <td>Alter tutorial 15 so that it will ask the user to enter their name and a number and then display their name that number of times</td>
+    </tr>
 </table>
