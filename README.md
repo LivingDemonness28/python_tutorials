@@ -127,4 +127,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/20-tutorial.ipynb">20-tutorial</a></h2></td>
         <td>Ask for a number below 50 and then count down from 50 to that number, making sure you show the number they entered in the output.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/21-tutorial.ipynb">21-tutorial</a></h2></td>
+        <td>Ask the user to enter their name and a number. If the number is less than 10, then display their name that number of times, otherwise display the message "Too high" three times.</td>
+    </tr>
 </table>
