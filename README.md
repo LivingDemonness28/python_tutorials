@@ -139,4 +139,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/23-tutorial.ipynb">23-tutorial</a></h2></td>
         <td>Ask which direction the user wants to count (up or down). If they select up, then ask them for the top number and then count from one to that number. If they select down, ask them to enter a number below 20 and the count down from 20 to that number. If they entered something other than up or down, display the message "I don't understand".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/24-tutorial.ipynb">24-tutorial</a></h2></td>
+        <td>Ask how many people the user wants to invite to a party. If they enter a number below 10, ask for the names and after each name display "[name] has been invited". If they enter a number which is 10 or higher, display the message "Too many people".</td>
+    </tr>
 </table>
