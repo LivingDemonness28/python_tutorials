@@ -131,4 +131,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/21-tutorial.ipynb">21-tutorial</a></h2></td>
         <td>Ask the user to enter their name and a number. If the number is less than 10, then display their name that number of times, otherwise display the message "Too high" three times.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/22-tutorial.ipynb">22-tutorial</a></h2></td>
+        <td>Set a variable called total to 0. Ask the user to enter five numbers and after each input ask them if they want that number included. If they do, then add the number to the total. If they do not want it included, don't add it to the total. After they have entered all five numbers, display the total.</td>
+    </tr>
 </table>
