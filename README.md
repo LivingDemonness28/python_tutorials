@@ -163,4 +163,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/29-tutorial.ipynb">29-tutorial</a></h2></td>
         <td>Ask the user to type in any word and display it in upper case.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/30-tutorial.ipynb">30-tutorial</a></h2></td>
+        <td>Ask the user to enter their first name. If the length of their first name is under five characters, ask them to enter their surname and join them together(without a space) and display the name in uppercase. If the length of the first name is five or more characters, display their first name in lowercase.</td>
+    </tr>
 </table>
