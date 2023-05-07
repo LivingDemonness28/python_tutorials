@@ -151,4 +151,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/26-tutorial.ipynb">26-tutorial</a></h2></td>
         <td>Ask the user to enter their first name and then ask them to enter their surname. Join them together with a space between and display the name and the length of whole name.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/27-tutorial.ipynb">27-tutorial</a></h2></td>
+        <td>Ask the user to enter their first name and surname in lowercase. Change the case to title case and join them together. Display the finished result.</td>
+    </tr>
 </table>
