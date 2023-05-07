@@ -143,4 +143,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/24-tutorial.ipynb">24-tutorial</a></h2></td>
         <td>Ask how many people the user wants to invite to a party. If they enter a number below 10, ask for the names and after each name display "[name] has been invited". If they enter a number which is 10 or higher, display the message "Too many people".</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/25-tutorial.ipynb">25-tutorial</a></h2></td>
+        <td>Ask the user to enter their first name and then display the length of their name.</td>
+    </tr>
 </table>
