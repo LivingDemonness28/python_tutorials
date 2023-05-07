@@ -147,4 +147,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/25-tutorial.ipynb">25-tutorial</a></h2></td>
         <td>Ask the user to enter their first name and then display the length of their name.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/26-tutorial.ipynb">26-tutorial</a></h2></td>
+        <td>Ask the user to enter their first name and then ask them to enter their surname. Join them together with a space between and ddisplay the name and the length of whole name.</td>
+    </tr>
 </table>
