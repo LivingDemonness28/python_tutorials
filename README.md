@@ -167,4 +167,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/30-tutorial.ipynb">30-tutorial</a></h2></td>
         <td>Ask the user to enter their first name. If the length of their first name is under five characters, ask them to enter their surname and join them together(without a space) and display the name in uppercase. If the length of the first name is five or more characters, display their first name in lowercase.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/31-tutorial.ipynb">31-tutorial</a></h2></td>
+        <td>Pig Latin takes the first consonant of a word, moves it to the end of the word and adds on an "ay". If a word begins with a vowel you just add "way" to the end. For example, pig becomes igpay, banana becomes ananabay, and aadvark becomes addvarkway. Create a program that will ask the user to enter a word and change it into Pig Latin. Make sure the new word is displayed in lowercase.</td>
+    </tr>
 </table>
