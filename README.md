@@ -159,4 +159,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/28-tutorial.ipynb">28-tutorial</a></h2></td>
         <td>Ask the user to type in the first line of a nursery rhyme and display the length of the string. Ask for a starting number and an ending number and then display just that section of the text (remember Python starts counting from 0 and not 1).</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/29-tutorial.ipynb">29-tutorial</a></h2></td>
+        <td>Ask the user to type in any word and display it in upper case.</td>
+    </tr>
 </table>
