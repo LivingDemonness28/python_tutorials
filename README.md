@@ -175,4 +175,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/32-tutorial.ipynb">32-tutorial</a></h2></td>
         <td>Write a program that reads the date in the format <em>dd/mm/yyyy</em> and replaces the "/" with a '-' and displays the date in <em>dd-mm-yyyy</em> format</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/33-tutorial.ipynb">33-tutorial</a></h2></td>
+        <td>Write a function that finds the number of occurences of a specified character in a string.</td>
+    </tr>
 </table>
