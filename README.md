@@ -179,4 +179,11 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/33-tutorial.ipynb">33-tutorial</a></h2></td>
         <td>Write a function that finds the number of occurences of a specified character in a string.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/34-tutorial.ipynb">34-tutorial</a></h2></td>
+        <td>
+        <p>Write a program that takes a binary number as input and parses it into a decimal integer. The output should be an expression similar to what you see on the right hand side below. For example,</p>
+        $$11001 = (1 \times 2^4 + 1 \times 2^3 + 0 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 )$$
+        </td>
+    </tr>
 </table>
