@@ -186,4 +186,25 @@
         $$11001 = (1 \times 2^4 + 1 \times 2^3 + 0 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 )$$
         </td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/35-tutorial.ipynb">35-tutorial</a></h2></td>
+        <td>
+            <p>Consider the following four string variables, as shown:</p>
+            <ol>
+                <li>city1 = "London"</li>
+                <li>city2 = "Paris"</li>
+                <li>city3 = "London"</li>
+                <li>city4 = "Sydney"</li>
+            </ol>
+            <p>What are the results of the following expressions?</p>
+            <ol>
+                <li>city1 == city2</li>
+                <li>city3.count('n')</li>
+                <li>city1 <= city4</li>
+                <li>city2.upper()</li>
+                <li>len(city4)</li>
+                <li>city1.lower()</li>
+            </ol>
+        </td>
+    </tr>
 </table>
