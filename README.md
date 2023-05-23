@@ -207,4 +207,8 @@
             </ol>
         </td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/35-tutorial.ipynb">35-tutorial</a></h2></td>
+        <td>Write a program that accepts a string from the user and displays the same string after removing vowels from it.</td>
+    </tr>
 </table>
