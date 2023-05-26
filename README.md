@@ -219,4 +219,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/38-tutorial.ipynb">38-tutorial</a></h2></td>
         <td>Write a program to sort a string lexicographically</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/39-tutorial.ipynb">39-tutorial</a></h2></td>
+        <td>Write a program to replace a string with another string without using built-in methods.</td>
+    </tr>
 </table>
