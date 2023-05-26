@@ -223,4 +223,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/39-tutorial.ipynb">39-tutorial</a></h2></td>
         <td>Write a program to replace a string with another string without using built-in methods.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/40-tutorial.ipynb">40-tutorial</a></h2></td>
+        <td>Write a program to concatenate two strings into another string without using the + operator.</td>
+    </tr>
 </table>
