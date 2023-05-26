@@ -231,4 +231,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/41-tutorial.ipynb">41-tutorial</a></h2></td>
         <td>Write a program to strip a set of characters from a string.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/42-tutorial.ipynb">42-tutorial</a></h2></td>
+        <td>Write a program to extract the first n characters of a string.</td>
+    </tr>
 </table>
