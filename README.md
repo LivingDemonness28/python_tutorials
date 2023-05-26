@@ -227,4 +227,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/40-tutorial.ipynb">40-tutorial</a></h2></td>
         <td>Write a program to concatenate two strings into another string without using the + operator.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/41-tutorial.ipynb">41-tutorial</a></h2></td>
+        <td>Write a program to strip a set of characters from a string.</td>
+    </tr>
 </table>
