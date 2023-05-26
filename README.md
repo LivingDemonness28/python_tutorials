@@ -215,4 +215,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/37-tutorial.ipynb">37-tutorial</a></h2></td>
         <td>Write a function to insert a string in the middle of the string.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/38-tutorial.ipynb">38-tutorial</a></h2></td>
+        <td>Write a program to sort a string lexicographically</td>
+    </tr>
 </table>
