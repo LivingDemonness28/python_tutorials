@@ -246,7 +246,7 @@
     <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/45-tutorial.ipynb">45-tutorial</a></h2></td>
         <td>
-            <p>In this exercise, you will create a program that reads words from the user until the user enters a blank line. After the user enters a blank line your program should dis- play each word entered by the user exactly once. The words should be displayed in the same order that they were first entered. For example, if the user enters:</p>
+            <p>In this exercise, you will create a program that reads words from the user until the user enters a blank line. After the user enters a blank line your program should display each word entered by the user exactly once. The words should be displayed in the same order that they were first entered. For example, if the user enters:</p>
             <ul>
                 <li>first</li>
                 <li>second</li>
