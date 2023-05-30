@@ -235,4 +235,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/42-tutorial.ipynb">42-tutorial</a></h2></td>
         <td>Write a program to extract the first n characters of a string.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/43-tutorial.ipynb">43-tutorial</a></h2></td>
+        <td>Write a program that reads integers from the user and stores them in a list. Your program should continue reading values until the user enter 0. Then it should display all of the values entered by the user (except for the 0) in ascending order, with one value appearing on each line. Use either the sort method or the sorted function to sort the list.</td>
+    </tr>
 </table>
