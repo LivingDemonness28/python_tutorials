@@ -243,4 +243,22 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/44-tutorial.ipynb">44-tutorial</a></h2></td>
         <td>Write a program that reads integers from the user and stores them in a list. Use 0 as a sentinel value to mark the end of the input. Once all of the values have been read your program should display them (except for the 0) in reverse order, with one value appearing on each line.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/45-tutorial.ipynb">45-tutorial</a></h2></td>
+        <td>
+            <p>In this exercise, you will create a program that reads words from the user until the user enters a blank line. After the user enters a blank line your program should dis- play each word entered by the user exactly once. The words should be displayed in the same order that they were first entered. For example, if the user enters:</p>
+            <ul>
+                <li>first</li>
+                <li>second</li>
+                <li>first</li>
+                <li>second</li>
+            </ul>
+            <p>The your program should display:</p>
+            <ul>
+                <li>first</li>
+                <li>second</li>
+                <li>third</li>
+            </ul>
+        </td>
+    </tr>
 </table>
