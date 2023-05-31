@@ -2,6 +2,10 @@
 
 <table>
     <tr>
+        <td><h2><strong>FILE</strong></h2></td>
+        <td><h2><stromg>DESCRIPTION</stromg></h2></td>
+    </tr>
+    <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_10-19/10-tutorial.ipynb">10-tutorial</a></h2></td>
         <td>Ask the user to enter their favourite colour. If they enter "red", "RED" or "Red" display the message "I like red too", otherwise display the message "I don't like [colour], I prefer red."</td>
     </tr>
