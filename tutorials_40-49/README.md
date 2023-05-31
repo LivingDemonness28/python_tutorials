@@ -51,4 +51,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_40-49/47-tutorial.ipynb">47-tutorial</a></h2></td>
         <td>A proper divisor of a positive integer, n, is a positive integer less than n which divides evenly into n. Write a program that computes all of the proper divisors of a positive integer. The integer will be passed to the program as its only parameter. The program will return a list containing all of the proper divisors as its only result.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_40-49/48-tutorial.ipynb">48-tutorial</a></h2></td>
+        <td>A proper divisor of a positive integer, n, is a positive integer less than n which divides evenly into n. Write a program that computes all of the proper divisors of a positive integer. The integer will be passed to the program as its only parameter. The program will return a list containing all of the proper divisors as its only result.</td>
+    </tr>
 </table>
