@@ -6,18 +6,18 @@
         <td><h2><stromg>DESCRIPTION</stromg></h2></td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/1-tutorial.ipynb">1-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/1-tutorial.ipynb">1-tutorial</a></h2></td>
         <td>Write a program that uses input to prompt a user for their name and then welcomes them.</td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/2-tutorial.ipynb">2-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/2-tutorial.ipynb">2-tutorial</a></h2></td>
         <td>
             <p>Write a program that asks the user for hours and rate per hour to compute gross pay.</p>
             <p>PS: We won’t worry about making sure our pay has exactly two digits after the decimal place for now. If you want, you can play with the built-in Python function to properly round the resulting pay to two decimal places</p>
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/3-tutorial.ipynb">3-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/3-tutorial.ipynb">3-tutorial</a></h2></td>
         <td>
             <p>Assume that we execute the following assignment statements:</p>
             <br>
@@ -38,7 +38,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/4-tutorial.ipynb">4-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/4-tutorial.ipynb">4-tutorial</a></h2></td>
         <td>
             <ul>
                 <li>Take the sentence: All work and no play makes Jack a dull boy. Store each word in a separate variable, then print out the sentence on one line using print.</li>
@@ -49,7 +49,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/5-tutorial.ipynb">5-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/5-tutorial.ipynb">5-tutorial</a></h2></td>
         <td>
             <p>The formula for computing the final amount if one is earning compound interest given on Wikipedia as</p>
             $$A = P(1 + \frac{r}{n})^{nt}$$
@@ -64,7 +64,7 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/6-tutorial.ipynb">6-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/6-tutorial.ipynb">6-tutorial</a></h2></td>
         <td>
             <ol>
                 <li>You look at the clock and it is exactly 2pm. You set an alarm to go off in 51 hours. At what time does the alarm go off? (Hint: you could count on your fingers, but this is not what we’re after. If you are tempted to count on your fingers, change the 51 to 5100.)</li>
@@ -73,15 +73,15 @@
         </td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/7-tutorial.ipynb">7-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/7-tutorial.ipynb">7-tutorial</a></h2></td>
         <td>Ask for two numbers. If the first one is larger than the second, display the second number first and then the first number, otherwise show the first number first and then the second.</td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/8-tutorial.ipynb">8-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/8-tutorial.ipynb">8-tutorial</a></h2></td>
         <td>Ask the user to enter a number that is under 20. If they enter a number that is 20 or more, display the message "Too high", otherwise display 'Thank you".</td>
     </tr>
     <tr>
-        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/9-tutorial.ipynb">9-tutorial</a></h2></td>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_1-9/9-tutorial.ipynb">9-tutorial</a></h2></td>
         <td>Ask the user to enter a number between 10 and 20 (inclusive). If they enter a number within this range, display the message "Thank you". otherwise display the message "Incorrect answer".</td>
     </tr>
 </table>
