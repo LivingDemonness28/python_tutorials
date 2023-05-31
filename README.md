@@ -261,4 +261,8 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/46-tutorial.ipynb">46-tutorial</a></h2></td>
+        <td>Create a program that reads integers from the user until the word "stop" is entered. Once all of the integers have been read your program should display all of the negative numbers, followed by all of the zeros, followed by all of the positive numbers. Within each group the numbers should be displayed in the same order that they were entered by the user. For example, if the user enters the values 3, -4, 1, 0, -1, 0, and -2 then your program should output the values -4, -1, -2, 0, 0, 3, and 1.</td>
+    </tr>
 </table>
