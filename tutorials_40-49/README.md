@@ -1,4 +1,4 @@
-<h1>Python tutorials 30-39</h1>
+<h1>Python tutorials 40-49</h1>
 
 <table>
     <tr>
@@ -53,7 +53,7 @@
     </tr>
     <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_40-49/48-tutorial.ipynb">48-tutorial</a></h2></td>
-        <td>A proper divisor of a positive integer, n, is a positive integer less than n which divides evenly into n. Write a program that computes all of the proper divisors of a positive integer. The integer will be passed to the program as its only parameter. The program will return a list containing all of the proper divisors as its only result.</td>
+        <td>An integer, n, is said to be perfect when the sum of all of the proper divisors of n is equal to n. For example, 28 is a perfect number because its proper divisors are 1, 2, 4, 7 and 14, and 1 + 2 + 4 + 7 + 14 = 28. Write a program that determines whether or not a positive integer is perfect. Your program will take one parameter. If that parameter is a perfect number then your program will return True. Otherwise it will return False.</td>
     </tr>
     <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_40-49/49-tutorial.ipynb">49-tutorial</a></h2></td>
