@@ -17,4 +17,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/52-tutorial.ipynb">52-tutorial</a></h2></td>
         <td>Create a list of six school subjects. Ask the user which of these subjects they don’t like. Delete the subject they have chosen from the list before you display the list again.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/53-tutorial.ipynb">53-tutorial</a></h2></td>
+        <td>Ask the user to enter four of their favorite foods and store them in a dictionary so that they are indexed with numbers starting from 1. Display the dictionary in full, showing the index number and the item. Ask them which they want to get rid of and remove it from the list. Sort the remaining data and display the dictionary</td>
+    </tr>
 </table>
