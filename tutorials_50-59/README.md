@@ -21,4 +21,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/53-tutorial.ipynb">53-tutorial</a></h2></td>
         <td>Ask the user to enter four of their favorite foods and store them in a dictionary so that they are indexed with numbers starting from 1. Display the dictionary in full, showing the index number and the item. Ask them which they want to get rid of and remove it from the list. Sort the remaining data and display the dictionary</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/54-tutorial.ipynb">54-tutorial</a></h2></td>
+        <td>Enter a list of ten colours. Ask the user for a starting number between 0 and 4 and an end number between 5 and 9. Display the list for those colours between the start and end numbers the user input.</td>
+    </tr>
 </table>
