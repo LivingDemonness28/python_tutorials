@@ -25,4 +25,8 @@
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/54-tutorial.ipynb">54-tutorial</a></h2></td>
         <td>Enter a list of ten colours. Ask the user for a starting number between 0 and 4 and an end number between 5 and 9. Display the list for those colours between the start and end numbers the user input.</td>
     </tr>
+    <tr>
+        <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/55-tutorial.ipynb">55-tutorial</a></h2></td>
+        <td>Create a list of four three-digit numbers. Display the list to the user, showing each item from the list on a separate line. Ask the user to enter a three-digit number. If the number they have typed in matches one in the list, display the position of that number in the list, otherwise display the message "That is not in the list"</td>
+    </tr>
 </table>
