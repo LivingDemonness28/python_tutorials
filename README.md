@@ -6,4 +6,5 @@
     <li><h2><a href="https://github.com/LivingDemonness28/python_tutorials/tree/main/tutorials_20-29">tutorials_20-29</a></h2></li>
     <li><h2><a href="https://github.com/LivingDemonness28/python_tutorials/tree/main/tutorials_30-39">tutorials_30-39</a></h2></li>
     <li><h2><a href="https://github.com/LivingDemonness28/python_tutorials/tree/main/tutorials_40-49">tutorials_40-49</a></h2></li>
+    <li><h2><a href="https://github.com/LivingDemonness28/python_tutorials/tree/main/tutorials_50-59">tutorials_50-59</a></h2></li>
 </ul>
