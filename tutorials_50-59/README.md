@@ -31,6 +31,6 @@
     </tr>
     <tr>
         <td><h2><a href="https://github.com/LivingDemonness28/python_tutorials/blob/main/tutorials_50-59/56-tutorial.ipynb">56-tutorial</a></h2></td>
-        <td>Create a list of four three-digit numbers. Display the list to the user, showing each item from the list on a separate line. Ask the user to enter a three-digit number. If the number they have typed in matches one in the list, display the position of that number in the list, otherwise display the message "That is not in the list"</td>
+        <td>Ask the user to enter the names of three people they want to invite to a party and store them in a list. After they have entered all three names, ask them if they want to add another. If they do, allow them to add more names until they answer "no". When they answer "no". When they answer "no", display how many people they have invited to the party.</td>
     </tr>
 </table>
